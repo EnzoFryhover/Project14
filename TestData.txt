@@ -1,6 +1,0 @@
-APerson,1,P1
-BPerson,2,P1
-BPerson,2,P2
-CPerson,3,P1
-CPerson,3,P3
-DPerson,4,P4
